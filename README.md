@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![FerPerales's github stats](https://github-readme-stats.vercel.app/api?username=ferperales)](https://github.com/anuraghazra/github-readme-stats)
+
+
 I'm Fernando!
 
 Software Engineer born in Guadalajara, Mexico.
