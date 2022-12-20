@@ -9,7 +9,7 @@ Software Engineer born in Guadalajara, Mexico.
 
 B. Sc. in Computer Engineering graduated from the Universidad de Guadalajara campus CUCEI (Spanish for University Center of Exact Sciences and Engineering).
 
-Ruby on Rails developer at thoughtbot
+Senior Ruby on Rails developer at thoughtbot
 
 Former Senior Software Engineer at Michelada
 
