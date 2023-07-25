@@ -9,23 +9,23 @@ Software Engineer born in Guadalajara, Mexico.
 
 B. Sc. in Computer Engineering graduated from the Universidad de Guadalajara campus CUCEI (Spanish for University Center of Exact Sciences and Engineering).
 
-Ruby on Rails Developer - Boost team at thoughtbot
+Senior Ruby on Rails Developer - Boost team at thoughtbot.
 
-Former Senior Software Engineer at Michelada
+Former Senior Software Engineer at michelada.io.
 
-Former Software Developer at FreeAgent Software
+Former Software Developer at FreeAgent Software CRM.
 
-Former Senior Consultant at MagmaLabs
+Former Senior Consultant at MagmaLabs.
 
-Krav-Maga student at KMA
+Krav-Maga student at KMA.
 
-Learning German at Bezirk Institute
+Former Traguitos GDL community host.
 
-Former Traguitos GDL community host
+RubyMX community Host.
 
 Founder of El Buen Código.
 
-Co-organizer of RailsBridge Mexico
+Co-organizer of RailsBridge Mexico.
 
 Former Instructor at Platzi for the Ruby and Rails course.
 
