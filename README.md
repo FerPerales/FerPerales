@@ -9,7 +9,7 @@ Software Engineer born in Guadalajara, Mexico.
 
 B. Sc. in Computer Engineering graduated from the Universidad de Guadalajara campus CUCEI (Spanish for University Center of Exact Sciences and Engineering).
 
-Senior Ruby on Rails Developer - Boost team at thoughtbot.
+Development Team Lead at thoughtbot.
 
 Former Senior Software Engineer at michelada.io.
 
